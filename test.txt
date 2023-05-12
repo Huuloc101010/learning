@@ -1,0 +1,6 @@
+#include<iostream>
+int main()
+{
+printf("say hi");
+return 0;
+}
